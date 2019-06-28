@@ -1,0 +1,6 @@
+C:\Users\cmarin\Desktop\Tipo_de_Cambio\TipoCambio.BE\bin\Debug\TipoCambio.BE.dll
+C:\Users\cmarin\Desktop\Tipo_de_Cambio\TipoCambio.BE\bin\Debug\TipoCambio.BE.pdb
+C:\Users\cmarin\Desktop\Tipo_de_Cambio\TipoCambio.BE\obj\Debug\TipoCambio.BE.csprojAssemblyReference.cache
+C:\Users\cmarin\Desktop\Tipo_de_Cambio\TipoCambio.BE\obj\Debug\TipoCambio.BE.csproj.CoreCompileInputs.cache
+C:\Users\cmarin\Desktop\Tipo_de_Cambio\TipoCambio.BE\obj\Debug\TipoCambio.BE.dll
+C:\Users\cmarin\Desktop\Tipo_de_Cambio\TipoCambio.BE\obj\Debug\TipoCambio.BE.pdb

@@ -1,0 +1,3 @@
+26-06-2019 11:36:55 - Inicio de la carga de datos
+26-06-2019 11:36:59 - Ya existen los datos
+26-06-2019 11:37:02 - Exito!! se cargaron los datos

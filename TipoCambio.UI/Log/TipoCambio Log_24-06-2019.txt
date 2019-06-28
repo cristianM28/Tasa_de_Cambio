@@ -1,0 +1,9 @@
+24-06-2019 12:06:41 - Inicio de la carga de datos
+24-06-2019 12:06:44 - Ya existen los datos
+24-06-2019 12:06:50 - Exito!! se cargaron los datos
+24-06-2019 12:25:08 - Inicio de la carga de datos
+24-06-2019 12:25:11 - Ya existen los datos
+24-06-2019 12:25:14 - Exito!! se cargaron los datos
+24-06-2019 14:58:28 - Inicio de la carga de datos
+24-06-2019 14:58:35 - Ya existen los datos
+24-06-2019 14:58:38 - Exito!! se cargaron los datos

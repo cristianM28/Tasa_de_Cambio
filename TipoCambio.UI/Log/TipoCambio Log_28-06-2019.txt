@@ -1,0 +1,6 @@
+﻿28-06-2019 12:24:28 - =========Inicio de la carga de datos=========
+28-06-2019 12:25:00 - Se crean los registros
+28-06-2019 12:25:08 - ==============Proceso Terminado==============
+28-06-2019 12:26:37 - =========Inicio de la carga de datos=========
+28-06-2019 12:27:02 - Se actualizaron los datos 
+28-06-2019 12:27:19 - ==============Proceso Terminado==============
